@@ -22,7 +22,7 @@ A free and powerful Lua script executor for Roblox. With Evon Executor, execute 
 
 1. Download the latest release from [here](https://github.com/EvonPredictor/Evon-Excuter/releases/tag/V1.0.1).  
 2. Extract the files to a folder of your choice.  
-3. Run the `EvonExecutor.exe` file.  
+3. Run the `Evon.exe` file.  
 
 ---
 
