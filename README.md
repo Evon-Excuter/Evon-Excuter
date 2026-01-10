@@ -14,7 +14,7 @@ A free and powerful Lua script executor for Roblox. With Evon Executor, execute 
 ---
 
 ## 📸 Screenshot  
-![Evon Executor Screenshot]((https://media.discordapp.net/attachments/1250484240584278090/1459587462811881626/IMG_4487.jpeg?ex=6963d240&is=696280c0&hm=cd0a860ec650425a7562aeb1a799ecb5ca9b2539bb8afc2e8ae8a147d872b238&=&width=1762&height=1028))
+![Evon Executor Screenshot](https://limewire.com/d/rZs6A#Aa7KHsdk4A)
 
 ---
 
