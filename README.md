@@ -28,10 +28,11 @@ A free and powerful Lua script executor for Roblox. With Evon Executor, execute 
 
 ## 📘 Usage  
 
-1. Open the executor.  
-2. Copy your desired Lua script into the editor.  
-3. Click "Execute" to run the script in Roblox.  
-4. Enjoy enhanced gameplay features.  
+1. Turn Of Anti Virus Cause Windows Flags Every Excuter Its Common Knowlledge.
+2. Open the executor.  
+3. Copy your desired Lua script into the editor.  
+4. Click "Execute" to run the script in Roblox.  
+5. Enjoy enhanced gameplay features.  
 
 ---
 
